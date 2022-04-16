@@ -1,0 +1,22 @@
+.App {
+  text-align: left;
+}
+
+.users{
+ width: 50%;
+ float: right;
+
+ margin-top: -170px;
+ 
+}
+.rowData{
+  color:red;
+}
+
+.container {
+  max-width: 1357px;
+}
+
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css");
+/* ss */
+
